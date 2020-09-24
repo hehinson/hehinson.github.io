@@ -8,7 +8,7 @@ logo: # filename of a logo image that has been placed into your images directory
 owner:
   name: H.E. Hinson
   avatar: bio-photo.jpg
-  bio: "A brief description of yourself."
+  bio: "H. E. Hinson, M.D., M.C.R. is an Associate Professor of Neurocritical Care, Neurology, and Emergency Medicine at Oregon Health and Science University. She serves as the Associate Director of Clinical Research in the Neurosciences ICU at OHSU, a member of the AAN’s Science Committee, and serves on the editorial boards of the journals Neurology, Stroke, and Neurocritical Care. She identifies her work as "Computational Neurology"; her research involves developing precision strategies for the treatment of acute brain injuries, such as traumatic brain injury (TBI), by applying integrative approaches that include high dimensional molecular and clinical data to infer predictive models of disease-related phenotypes. "
   email: hinson@ohsu.edu
   # Do not include the @ symbol in your Twitter username
   twitter: hollyehinson
